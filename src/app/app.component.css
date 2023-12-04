@@ -1,0 +1,35 @@
+#accumulated {
+  font-size: 30px;
+  height: 50%;
+  transition: all 0.3s;
+  border: none;
+  text-align: right;
+  background-color: #ffffff;
+}
+
+#eval {
+  height: 50%;
+  font-size: 45px;
+  transition: all 0.3s;
+  border: none;
+  text-align: right;
+  background-color: #ffffff;
+}
+
+.btn {
+  width: 100%;
+  border-radius: 0;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+
+}
+
+.btn:hover {
+  background-color: initial;
+  color:rgb(212, 200, 26);
+}
+
+.botonera-num {
+  flex-wrap: wrap;
+}
